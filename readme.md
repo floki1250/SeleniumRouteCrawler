@@ -1,4 +1,3 @@
-```markdown
 # SeleniumRouteCrawler
 
 SeleniumRouteCrawler is a Python tool designed for efficiently fetching API routes and their corresponding titles concurrently. This tool is built with the goal of providing a quick and parallelized approach to exploring and collecting information about API endpoints.
