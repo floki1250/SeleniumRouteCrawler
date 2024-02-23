@@ -1,13 +1,12 @@
-# SeleniumRouteCrawler
+# SeleniumRouteCrawler ✨
 
 SeleniumRouteCrawler is a Python tool designed for efficiently fetching API routes and their corresponding titles concurrently. This tool is built with the goal of providing a quick and parallelized approach to exploring and collecting information about API endpoints.
 
 ## Features
 
-- **Concurrency:** Utilizes multiprocessing to fetch API routes concurrently, taking advantage of multi-core processors.
-- **Headless Mode:** Employs Selenium in headless mode for efficient web page interaction during route fetching.
+- **Concurrency:** 🚀Utilizes multiprocessing to fetch API routes concurrently, taking advantage of multi-core processors .
+- **Headless Mode:** 👻Employs Selenium in headless mode for efficient web page interaction during route fetching.
 - **Customizable Range:** Allows users to specify the start and end range of API routes to fetch, providing flexibility in exploration.
-- **Append to Existing Data:** Appends new results to an existing JSON file if it already exists, enabling cumulative data collection.
 
 ## Prerequisites
 
