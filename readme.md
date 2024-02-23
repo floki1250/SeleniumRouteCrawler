@@ -48,9 +48,3 @@ python SeleniumRouteCrawler.py https://test.net/d/ 1 1000
 
 The tool will append the fetched data to a file named `api_routes.json` in the current directory.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace placeholder values such as `<base_url>`, `<start_range>`, `<end_range>`, and `https://github.com/yourusername/RouteFetcher.git` with the actual values and information specific to your tool and repository.
